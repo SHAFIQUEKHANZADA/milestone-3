@@ -1,1 +1,1 @@
-# milestone-3
+Hackathon milestone 3
